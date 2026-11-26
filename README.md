@@ -71,3 +71,6 @@ export default defineConfig([
   },
 ])
 ```
+## CI/CD Automation
+
+This project uses Jenkins for automated Docker build, push, and deployment to AWS EC2.
